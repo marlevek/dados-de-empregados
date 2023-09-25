@@ -1,4 +1,5 @@
 # dados-de-empregados
+O conjunto de dados é o <a href="https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset"> employee dataset</a>, extraído do Kaggle.
 
 Respondendo 5 perguntas de negócios 
 
