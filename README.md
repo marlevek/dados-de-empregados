@@ -13,7 +13,7 @@ Para responder a essas perguntas vou usar estatística descritiva e visualizaç�
 * maptplotlib, seaborn, plotly - para gráficos
 * matriz de correlação
 
-Também vou criar modelos de machine learning para prever o comportamento de afastamento com base em várias características, como educação, idade, experiência etc
+Também vou criar modelos de machine learning para prever o comportamento de afastamento (se o funcionário ficará ou sairá da empresa) com base em várias características, como educação, idade, experiência etc
 Os algoritos de machine learning que vão ser usados para classificação:
 -> Regressão Logística
 -> Random Forest
