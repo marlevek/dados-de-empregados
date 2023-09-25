@@ -12,15 +12,3 @@ Respondendo 5 perguntas de negócios
 Para responder a essas perguntas vou usar estatística descritiva e visualizações gráficas com o auxílio de:
 * maptplotlib, seaborn, plotly - para gráficos
 * matriz de correlação
-
-Também vou criar modelos de machine learning para prever o comportamento de afastamento (se o funcionário ficará ou sairá da empresa) com base em várias características, como educação, idade, experiência etc
-Os algoritos de machine learning que vão ser usados para classificação:
--> Regressão Logística
--> Random Forest
--> Gradient Boosting
--> XGBoosting
-
-Vou usar a validação cruzada (cross-validation) para avaliar o desempenho dos modelos de machine learning de maneira mais robusta. A validação cruzada é uma técnica importante
-para estimar a capacidade de generalização de um modelo e reduzir o risco de overfitting ou subajuste.
-
-Por fim, vou exibir um quadro comparativo dos modelos e ver qual teve melhor desempenho.
